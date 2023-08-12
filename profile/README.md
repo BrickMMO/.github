@@ -1,3 +1,3 @@
 # BrickMMO
 
-## A Smart City Development Platform using LEGO™ Bricks
+## A Smart City Development Platform using LEGO® Bricks
