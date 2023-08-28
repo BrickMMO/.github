@@ -2,7 +2,7 @@
 
 The .github repo used to store the organization's profile.
 
-> View GitHub documentation:
+> View GitHub documentation:  
 > https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile
 
 ---
